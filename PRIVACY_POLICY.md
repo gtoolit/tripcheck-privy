@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 # Privacy Policy for TripCheck
 
 **Last updated: March 15, 2026**
